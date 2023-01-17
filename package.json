@@ -2,10 +2,10 @@
   "name": "tg_bot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index_casino.js",
   "scripts": {
-    "dev": "nodemon index.js",
-    "start": "node index.js"
+    "dev": "nodemon index_casino.js",
+    "start": "node index_casino.js"
   },
   "keywords": [],
   "author": "",
